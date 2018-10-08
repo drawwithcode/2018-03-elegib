@@ -61,10 +61,10 @@ function disegno1() {
   noFill();
   noStroke();
 
-// texture X
+// textureX
 for (i = 30; i < width ; i+= 60) {
 
-//texture Y
+//textureY
     for(p = 30; p < height; p+= 60) {
 
 //color change
